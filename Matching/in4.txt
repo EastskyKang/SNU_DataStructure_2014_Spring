@@ -1,0 +1,18 @@
+< text4.txt
+? consectetur
+? adipisising
+? labore
+? tempar
+? nostrud
+? lavoris
+? aliquip
+? fugait
+? airure
+? paraitur
+? cillum
+? occacat
+? proident
+? officio
+? mollit
+? laborun
+QUIT

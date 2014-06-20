@@ -1,0 +1,301 @@
+Rank  	Player  	   	Alliance  	Points
+1   * 	Aiglos 	write message   	M.O.A 	4.600.994
+2   * 	V For Vendetta 	write message   	M.O.A 	4.129.270
+3   * 	Hayati 	write message   	BARACUDA 	3.513.826
+4   * 	Y O Y O 	write message   	BARACUDA 	3.145.314
+5   * 	S E R T A C 	write message   	BARACUDA 	3.009.619
+6   * 	rdb 	write message   	B1 	2.971.795
+7   * 	Nana 	write message   	M.O.A 	2.490.892
+8   * 	ziemowit 	write message   	V RP 	2.267.557
+9   * 	cengizhan 	write message   	MooNStaR 	2.147.934
+10   * 	Supplicium Capitis 	write message   	SVIE 	2.130.501
+11   * 	grafi 	write message   	MooNStaR 	2.113.957
+12   * 	vokaj 	write message   	RHCP 	2.090.818
+13   * 	KSK1912 	write message   	BARACUDA 	1.962.655
+14   * 	yigit 	write message   	MooNStaR 	1.958.920
+15   * 	YASUSU 	write message   		1.837.849
+16   * 	deftones 	write message   	UFP 	1.832.474
+17   * 	RedLine 	write message   	MooNStaR 	1.830.815
+18   * 	boNe 	write message   	MooNStaR 	1.782.948
+19   * 	wolfwar 	write message   		1.692.723
+20   * 	Myrlun 	write message   	OGJ 	1.662.159
+21   * 	KoshiMazaki 	write message   	V RP 	1.617.808
+22   + 	unholly 	write message   	Nuke 	1.579.718
+23   - 	Carbon 	write message   	fTbZ 	1.578.046
+24   * 	Flamen Dialis 	write message   	RHCP 	1.568.688
+25   * 	ostry 	write message   	RP 	1.534.795
+26   * 	Fabioscas 	write message   	PTuga 	1.508.384
+27   * 	compmanben 	write message   	SOLID 	1.453.062
+28   * 	GAM 	write message   		1.447.386
+29   * 	Jazz 	write message   	FOSR 	1.369.982
+30   * 	felixthecat 	write message   	fTbZ 	1.343.124
+31   * 	narn federation 	write message   	B1 	1.319.511
+32   * 	Wolfy 	write message   	T3M 	1.286.459
+33   * 	Muad Dibh 	write message   	FREMEN 	1.273.304
+34   * 	Sir Bolton of FATMAN 	write message   	fTbZ 	1.218.589
+35   * 	mortalturk 	write message   	TURKLER 	1.202.771
+36   * 	cavallo11 	write message   	I.C. 	1.200.219
+37   * 	infinity 	write message   		1.197.633
+38   * 	Gangster 	write message   	M.O.A 	1.197.189
+39   * 	Johneaton 	write message   	fTbZ 	1.159.610
+40   * 	Preacher Cat 	write message   	doop 	1.148.942
+41   * 	Domino 	write message   	Nuke 	1.142.808
+42   * 	fa freddo 	write message   	O.N.O 	1.126.749
+43   * 	Mark Antony 	write message   	Lost 	1.118.156
+44   * 	Dum Byeo 	write message   	M.O.A 	1.115.026
+45   * 	Grumpy 	write message   	UFP 	1.104.264
+46   * 	Galactus 	write message   	NC Veng 	1.100.018
+47   * 	Troy 	write message   	BARACUDA 	1.098.110
+48   * 	MaRiLyN MoNroE 	write message   	MooNStaR 	1.094.172
+49   * 	32768 	write message   	OGJ 	1.086.962
+50   * 	Gherkov 	write message   	Nuke 	1.078.268
+51   + 	piri reis 	write message   	doop 	1.071.227
+52   - 	Hightower 	write message   	RP 	1.069.352
+53   - 	smashkevin 	write message   	PPP 	1.067.364
+54   * 	dmw 	write message   	Nuke 	1.038.185
+55   * 	Naepstar 	write message   	ExSo 	1.026.390
+56   * 	trungnghiavn 	write message   	NOON 	1.021.040
+57   + 	pinpegill13 	write message   	fTbZ 	1.019.304
+58   * 	xfx 	write message   	Nuke 	1.017.739
+59   + 	Apache 	write message   	MooNStaR 	1.015.844
+60   - 	eXDe 	write message   	Tardis 	1.011.675
+61   * 	nevynspirates 	write message   	.HF. 	1.009.590
+62   * 	Jan III Sobieski 	write message   	V RP 	1.006.092
+63   * 	HOOK 	write message   	R.O.A. 	1.003.792
+64   * 	pindza 	write message   		1.000.165
+65   * 	inthefog 	write message   	TmX 	997.217
+66   * 	Tioms3 	write message   	doop 	971.564
+67   * 	poska 	write message   	RHCP 	967.595
+68   * 	spinoza 	write message   	AOO 	966.343
+69   * 	ALONE WOLF 	write message   	MooNStaR 	965.260
+70   * 	A l o n e 	write message   	doop 	964.502
+71   * 	Dydek 	write message   	V RP 	946.647
+72   * 	Cardboard Ninja 	write message   	fTbZ 	944.893
+73   * 	Grand Admiral Newbie 	write message   	doop 	944.514
+74   * 	DaJudge 	write message   	Platoon 	943.552
+75   * 	BlackAdder 	write message   	V RP 	941.210
+76   * 	Last Action Moogle 	write message   	OGJ 	938.611
+77   * 	Han Solo 	write message   	TmX 	935.754
+78   * 	Cotonite 	write message   	TPPK 	933.593
+79   * 	brain 	write message   	Nuke 	932.839
+80   * 	NTM 	write message   	Lost 	931.600
+81   * 	MisCzar 	write message   	O.N.O 	928.066
+82   * 	rabarbar 	write message   	V RP 	924.721
+83   * 	Goofy 	write message   	Nuke 	919.768
+84   * 	In Memory of Clinton 	write message   	doop 	911.655
+85   * 	Zazoon 	write message   	RHCP 	905.281
+86   * 	faust b 	write message   	O.N.O 	899.604
+87   * 	S3Bols 	write message   	V RP 	885.045
+88   * 	Disturb 	write message   	NoLeader 	876.701
+89   * 	Snarf 	write message   	NC Veng 	875.971
+90   * 	New Owner 	write message   	doop 	871.292
+91   * 	Odin 	write message   	BARACUDA 	858.685
+92   * 	Luna 	write message   		854.157
+93   * 	kirpi 	write message   	BARACUDA 	853.806
+94   * 	FeAr FaCtOrY 	write message   	PPP 	848.163
+95   * 	Darakian 	write message   		847.563
+96   * 	Ridick 	write message   	V RP 	842.444
+97   * 	TIT 	write message   	BARACUDA 	842.034
+98   * 	Zargon 	write message   		839.045
+99   * 	Darth Nihilus 	write message   	OGJ 	834.226
+100   * 	Peace 	write message   	Nuke 	829.777
+ 101   *    	  majou    	  write message       	  UOBB    	 829.346
+102   * 	Tragic Silence 	write message   	OGJ 	827.550
+103   * 	C E Z I R 	write message   	doop 	823.575
+104   + 	spoon 	write message   	.HF. 	822.621
+105   - 	SuperDuper 	write message   	doop 	818.203
+106   - 	Sultan 	write message   	UFP 	814.586
+107   - 	Kharnage 	write message   	doop 	806.026
+108   * 	grsh 	write message   	M.O.A 	804.115
+109   * 	Equ1ll1bRum 	write message   	vlb 	801.037
+110   * 	Swarm 	write message   	I.C. 	793.352
+111   + 	Unanimous 	write message   	SVIE 	793.190
+112   - 	Trogdor 	write message   	OGJ 	793.143
+113   * 	Thy Oath 	write message   	UFP 	786.961
+114   * 	Renegade of Funk 	write message   	O.N.O 	784.397
+115   * 	Anjel 	write message   	SOLID 	771.075
+116   * 	One Eye 	write message   	doop 	769.777
+117   * 	stugots 	write message   	_AI_ 	769.127
+118   * 	Adelante 	write message   	Nuke 	761.107
+119   * 	larva31 	write message   	M.O.A 	748.760
+120   * 	Bohemo 	write message   	I.C. 	748.163
+121   * 	Cancer 	write message   	M.O.A 	739.832
+122   * 	chiopp 	write message   	doop 	737.150
+123   * 	perfecstrom 	write message   	Nuke 	729.766
+124   * 	Sylph 	write message   	Lost 	725.204
+125   * 	Hung Wei Lo 	write message   	doop 	723.389
+126   * 	peti 	write message   	Nuke 	721.588
+127   * 	Junior 	write message   	doop 	716.453
+128   * 	Emperor Domo 	write message   	_AI_ 	708.880
+129   * 	Kaka Polish 	write message   	V RP 	708.224
+130   * 	merc 	write message   	OGJ 	705.812
+131   * 	Snapping Turtle 	write message   	Nuke 	705.130
+132   * 	Aversin 	write message   	I.C. 	702.017
+133   * 	Dirk Pitt 	write message   	H.D 	700.944
+134   * 	stc-ulti 	write message   	SVIE 	690.947
+135   * 	Mr Blonde 	write message   	doop 	688.721
+136   * 	majorkrohn 	write message   	Nuke 	684.225
+137   * 	Nightbird 	write message   	MooNStaR 	674.623
+138   * 	Clark Kent 	write message   	Nuke 	674.081
+139   * 	TABUTCU 	write message   		667.758
+140   * 	Snake Plissken 	write message   	UFP 	666.535
+141   * 	Lady Faylyn 	write message   	doop 	665.607
+142   * 	Guli 	write message   	doop 	646.667
+143   * 	Blue Eyed Devil 	write message   	doop 	645.696
+144   * 	l3 e T u L 	write message   	BARACUDA 	635.182
+145   * 	serial killer 	write message   	TURKLER 	627.732
+146   * 	Fanatikis 	write message   	TmX 	627.602
+147   * 	ged 	write message   	MooNStaR 	627.126
+148   * 	McBooty 	write message   	doop 	624.714
+149   * 	riddick 	write message   		622.869
+150   * 	Arrow 	write message   	SVIE 	619.570
+151   * 	Ivy 	write message   	M.O.A 	619.527
+152   * 	evi 	write message   	Platoon 	619.279
+153   * 	Ghost 	write message   	Nuke 	617.016
+154   + 	zelper 	write message   	NC Veng 	611.697
+155   - 	Seketh 	write message   	Cells 	611.622
+156   + 	madka1986 	write message   	O.N.O 	610.909
+157   - 	rossi 	write message   	Tardis 	609.837
+158   * 	mark 	write message   	FWL 	603.462
+159   * 	Redux 	write message   	doop 	600.429
+160   * 	erbain 	write message   	TURKLER 	599.634
+161   * 	wolfhound 	write message   	ELY 	598.985
+162   * 	LysiaK 	write message   	lys 	598.330
+163   * 	Nojunoxo 	write message   	NC Veng 	598.201
+164   * 	Zdravko Dren 	write message   	RHCP 	597.930
+165   * 	Skias 	write message   	Nuke 	594.456
+166   * 	Wales 	write message   	FOSR 	592.821
+167   + 	darth neo 	write message   	RP 	586.802
+168   - 	oefzoef 	write message   	B1 	584.696
+169   * 	slacker 	write message   	doop 	579.354
+170   * 	bandytaa 	write message   	V RP 	579.125
+171   + 	Serinity 	write message   	Lost 	576.820
+172   - 	nelutu 	write message   	Nuke 	575.670
+173   - 	lennox 	write message   	O.N.O 	574.180
+174   - 	Lethal Strike 	write message   		574.041
+175   - 	k0r0z1f_black 	write message   	Rockers 	567.519
+176   - 	Darth Ramsus 	write message   	RP 	567.116
+177   - 	Teshadun13 	write message   	REAVER 	564.827
+178   * 	the invisible 	write message   	TmX 	560.637
+179   + 	Aubrey 	write message   	Armada 	558.795
+180   - 	XXX11 	write message   		558.663
+181   * 	xXxTAOxXx 	write message   	MooNStaR 	556.778
+182   + 	luckfully 	write message   	doop 	551.814
+183   - 	NecronLord 	write message   	doop 	551.807
+184   * 	Abe_Froeman 	write message   	UFP 	547.032
+185   * 	VSD 	write message   		545.974
+186   * 	nikers 	write message   	O.N.O 	545.187
+187   * 	adoken 	write message   	MGS 	545.006
+188   * 	Pidgeonator 	write message   	doop 	544.897
+189   * 	zero1 	write message   	doop 	544.091
+190   * 	SNAKE DOCTOR 	write message   	HT 	542.806
+191   * 	Master Pef 	write message   	SOLID 	538.292
+192   * 	SYOUS 	write message   	M.O.A 	537.050
+193   * 	neo666666 	write message   	Nuke 	536.690
+194   + 	Shadow Wolf 	write message   	doop 	528.593
+195   - 	Bradack 	write message   	SVIE 	528.338
+196   - 	lastexile 	write message   	POTV 	526.537
+197   - 	comespot 	write message   	Tardis 	522.848
+198   - 	Bomis 	write message   	TmX 	521.288
+199   * 	Prospero 	write message   	doop 	519.053
+200   * 	Paragon000 	write message   	Lost 	518.276
+ 201   *    	  EXCALIBUR    	  write message       	  BARACUDA    	 517.635
+202   * 	readie 	write message   	NC Veng 	517.315
+203   * 	Foof 	write message   	MeBeT 	516.046
+204   * 	Mackes 	write message   		515.124
+205   * 	Teamplayer 	write message   	1.O.A.K 	514.304
+206   * 	Admir 	write message   	Tardis 	513.511
+207   * 	DismalFailure 	write message   	FOSR 	507.596
+208   * 	Helluin 	write message   	RP 	506.078
+209   * 	Recluse 	write message   		502.171
+210   + 	ARC Smoker 	write message   	Nuke 	501.069
+211   * 	TWOONEKIND 	write message   	oTATEo 	500.923
+212   * 	Searle 	write message   	KUL T5 	500.471
+213   - 	Ron 	write message   	Un4Gvn 	500.402
+214   * 	BlackFox 	write message   	OGJ 	498.571
+215   * 	Baton 	write message   	UFP 	493.982
+216   * 	0zero 	write message   	SMS 	492.858
+217   * 	stutti 	write message   	C.O.R.P. 	490.130
+218   * 	oooooo 	write message   	Nuke 	489.065
+219   * 	golom 	write message   	FWL 	487.466
+220   * 	klma72 	write message   	tod 	482.584
+221   * 	sacrifice 	write message   		481.769
+222   * 	foxinabox 	write message   	4C3S 	480.841
+223   * 	calebloo 	write message   	Nuke 	480.356
+224   * 	sleepy 	write message   	1.O.A.K 	479.684
+225   * 	Andersxxl 	write message   	SP 	477.273
+226   * 	Wengsta123 	write message   	doop 	475.738
+227   * 	dumma hol da bomb 	write message   	NC Veng 	471.976
+228   * 	Kdas 	write message   	X POWER 	470.004
+229   * 	Cortox 	write message   	Nuke 	469.784
+230   + 	Teapot 	write message   	SVIE 	468.835
+231   - 	Katip Celebi 	write message   	TURKLER 	468.807
+232   - 	Leptirich 	write message   	UFP 	467.952
+233   * 	Fragboy 	write message   	NC Veng 	464.627
+234   * 	TriSkelion 	write message   	Nuke 	462.766
+235   * 	barpeda 	write message   	doop_A 	461.725
+236   * 	Mikeszz 	write message   	doop_A 	459.017
+237   * 	Vlagrate 	write message   	NYAH 	457.092
+238   * 	coloreal 	write message   		456.378
+239   * 	Cyclonic 	write message   	Armada 	455.514
+240   * 	TOM SNARE 	write message   	FWL 	455.442
+241   * 	lule 	write message   	NOMADI 	453.405
+242   * 	Krugster 	write message   	NC Veng 	452.498
+243   * 	mdfk87 	write message   	O.N.O 	452.037
+244   * 	Yokat 	write message   	FWL 	449.756
+245   * 	sneak 	write message   	Armada 	448.047
+246   + 	bbong 	write message   		444.189
+247   - 	pronmasta 	write message   	UFP 	443.044
+248   + 	crimson 	write message   	BARACUDA 	441.196
+249   - 	subjugator 	write message   	M.O.A 	441.133
+250   * 	MarcellusW 	write message   	_AI_ 	440.110
+251   * 	Reiche 	write message   	ALFRA 	437.768
+252   * 	fatihdursun 	write message   	MooNStaR 	436.502
+253   * 	Szalonooki 	write message   	V RP 	433.855
+254   * 	sameer 	write message   	Nuke 	432.635
+255   * 	Glennon 	write message   	Armada 	430.266
+256   * 	BREETAI 	write message   	NC Veng 	429.844
+257   * 	Corpse Bride 	write message   	Nuke 	425.421
+258   * 	TK421 	write message   	doop 	423.928
+259   * 	Marko-BGD 	write message   		422.441
+260   * 	supercuret 	write message   	Nuke 	421.931
+261   * 	EFE 	write message   		417.594
+262   * 	Decimus 	write message   	ArmedWng 	413.191
+263   * 	windancer 	write message   	OGJ 	412.478
+264   * 	Xonnex 	write message   	FOSR 	411.752
+265   * 	pnation 	write message   	M.O.A 	411.310
+266   * 	Mr Q 	write message   	BH 	410.426
+267   * 	Tido 	write message   	BAMF 	405.625
+268   * 	Holdaway 	write message   	.HF. 	402.858
+269   + 	lordofwarzz 	write message   	Cursed.W 	401.657
+270   - 	Shady Reaper 	write message   	CURSED 	400.521
+271   - 	E W A 	write message   	M.O.A 	399.169
+272   * 	alegra 	write message   		393.433
+273   * 	ilkor 	write message   	BH 	385.066
+274   * 	UnknownUser 	write message   	NC Veng 	385.036
+275   * 	que pasa contigo 	write message   	doop_A 	384.200
+276   * 	KANUNI SULTAN 	write message   	TURKLER 	382.788
+277   * 	Zatoichi 	write message   		382.539
+278   + 	Berrik 	write message   	SOLID 	381.044
+279   - 	The Gunslinger 	write message   	OGJ 	380.648
+280   - 	spaceman 	write message   	BH 	379.364
+281   * 	2wiz 	write message   	BH 	378.564
+282   * 	Dwar_of_Waw 	write message   	REAVER 	378.162
+283   + 	PoisonBeef 	write message   	FOSR 	372.874
+284   - 	Raven65 	write message   	SOLID 	371.672
+285   - 	deja 	write message   	FWL 	371.493
+286   * 	GirlsGeneration 	  	M.O.A 	367.171
+287   * 	Morgul 	write message   	doop_A 	366.559
+288   * 	NewReaper 	write message   	NC Veng 	365.424
+289   * 	DarkSoul 	write message   	UFP 	364.003
+290   * 	Perseas 	write message   	G.C. 	362.552
+291   * 	mithrandir 	write message   	BH 	362.003
+292   * 	Darth Kenneth 	write message   	FWL 	358.690
+293   * 	Kaczor72 	write message   	SP 	357.783
+294   * 	Cremaster 	write message   	Cells 	356.480
+295   * 	ZornX 	write message   	C.O.R.P. 	355.087
+296   * 	blackvtr 	write message   	doop_A 	351.741
+297   * 	winemaker 	write message   		351.473
+298   * 	Dudeman187 	write message   	KUL T5 	350.218
+299   * 	Spartan Queen 	write message   		350.207
+300   * 	Janissary 	write message   		350.190

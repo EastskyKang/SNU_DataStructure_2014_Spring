@@ -1,0 +1,6 @@
+< text2.txt
+? GirlsGeneration
+? MooNStaR
+? BARACUDA
+? message
+QUIT

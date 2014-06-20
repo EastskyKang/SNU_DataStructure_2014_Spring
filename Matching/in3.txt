@@ -1,0 +1,9 @@
+< text3.txt
+? Morning
+? Musume
+? morningmusume
+? haakhaak
+? concert
+? Japanese
+? audition
+QUIT

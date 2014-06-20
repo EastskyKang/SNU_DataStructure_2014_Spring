@@ -1,0 +1,12 @@
+< text6.txt
+? Terran
+? carrier
+? revolve
+? tournament
+? Battle
+? Blizzard
+? publish
+? templar
+? Kerrigan
+? character
+QUIT
