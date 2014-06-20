@@ -1,8 +1,6 @@
-# DataStructure-HW
+# SNU DataStructure Course Homeworks
 
-SNU DataStructure Course
-
-Homeworks for Seoul National University DataStructure course in 2014 spring semester by EastskyKang
+JAVA Homework codes for Seoul National University DataStructure course (prof.Moon) in 2014 spring semester by EastskyKang
 
 1. BigInteger (84/100)
 2. MovieDatabase (100/100)
@@ -11,14 +9,19 @@ Homeworks for Seoul National University DataStructure course in 2014 spring seme
 5. Matching (100/100)
 6. Subway (110/110)
 
+## BigInteger
+
+having some bugs... 
+Refer a result text file.
+
 ## Sorting
 
 Including Sorting Report. (50/50)
 
 ## Matching 
 
-Including Test Input / Command Files. 
+Including test input / command files. 
 
 ## Subway 
 
-Including Test Input Files.
+Including test input files.
