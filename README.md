@@ -12,7 +12,9 @@ JAVA Homework codes for Seoul National University DataStructure course (prof.Moo
 ## BigInteger
 
 having some bugs... 
-Refer a result text file.
+Refer a result text file. 
+
+https://github.com/EastskyKang/SNU_DataStructure_2014_Spring/blob/master/BigInteger/result.txt
 
 ## Sorting
 
