@@ -12,4 +12,6 @@ Homeworks for Seoul National University DataStructure course in 2014 spring seme
 5. Matching (100/100)
 6. Subway (110/110)
 
+Including Sorting Report (50/50)
+
 by EastskyKang
