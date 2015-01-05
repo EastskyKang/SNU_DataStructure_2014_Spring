@@ -1,6 +1,8 @@
 # SNU DataStructure Course Homeworks
 
-JAVA Homework codes for Seoul National University DataStructure course (prof.Moon) in 2014 spring semester.
+Assignment codes for Seoul National University DataStructure course (prof.Moon) in 2014 spring semester.
+
+All codes are written in JAVA. 
 
 This repository is just for a *private purpose*.  
 
@@ -13,6 +15,7 @@ But you can refer and use some snippets if you need it.
 **I DO NOT HAVE ANY REPOSIBILITY FOR GETTING HUGE DEDUCTION IN YOUR GRADE BY "CODE COPYING"**
 
 -----
+## Projects
 
 1. BigInteger (84/100)
 2. MovieDatabase (100/100)
@@ -21,21 +24,21 @@ But you can refer and use some snippets if you need it.
 5. Matching (100/100)
 6. Subway (110/110)
 
-## BigInteger
+### BigInteger
 
 Has some bugs... 
 Refer a result.txt 
 
 [result.txt](https://github.com/EastskyKang/SNU_DataStructure_2014_Spring/blob/master/BigInteger/result.txt)
 
-## Sorting
+### Sorting
 
 Includes a report. (50/50)
 
-## Matching 
+### Matching 
 
 Includes test input / command files. 
 
-## Subway 
+### Subway 
 
 Includes test input files.
