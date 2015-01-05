@@ -2,7 +2,7 @@
 
 JAVA Homework codes for Seoul National University DataStructure course (prof.Moon) in 2014 spring semester.
 
-This repository is just for a private purpose.  
+This repository is just for a *private purpose*.  
 
 **FOR SNU STUDENTS :**
 
