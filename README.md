@@ -4,7 +4,8 @@ JAVA Homework codes for Seoul National University DataStructure course (prof.Moo
 
 This repository is just for a private purpose.  
 
-**FOR SNU STUDENTS : I DO NOT HAVE ANY REPOSIBILITY FOR GETTING HUGE DEDUCTION IN YOUR GRADE BY "CODE COPYING"**
+**FOR SNU STUDENTS : **
+**I DO NOT HAVE ANY REPOSIBILITY FOR GETTING HUGE DEDUCTION IN YOUR GRADE BY "CODE COPYING"**
 
 1. BigInteger (84/100)
 2. MovieDatabase (100/100)
