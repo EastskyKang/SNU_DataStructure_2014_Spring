@@ -27,7 +27,7 @@ But you can refer and use some snippets if you need it.
 ### BigInteger
 
 Has some bugs... 
-Refer a result.txt 
+Refer to result.txt 
 
 [result.txt](https://github.com/EastskyKang/SNU_DataStructure_2014_Spring/blob/master/BigInteger/result.txt)
 
