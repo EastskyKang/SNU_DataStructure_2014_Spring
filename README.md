@@ -1,18 +1,12 @@
-# SNU DataStructure Course Homeworks
+# SNU DataStructure Assignments
 
-Assignment codes for Seoul National University DataStructure course (prof.Moon) in 2014 spring semester.
+For Seoul National University DataStructure (prof.Moon) spring 2014.
 
 All codes are written in JAVA. 
 
-This repository is just for a *private purpose*.  
-
-But you can refer and use some snippets if you need it.  
-
 -----
 
-**FOR SNU STUDENTS :**
-
-**I DO NOT HAVE ANY REPOSIBILITY FOR GETTING HUGE DEDUCTION IN YOUR GRADE BY "CODE COPYING"**
+**This is for private purpose**
 
 -----
 ## Projects
@@ -30,6 +24,9 @@ Has some bugs...
 Refer to result.txt 
 
 [result.txt](https://github.com/EastskyKang/SNU_DataStructure_2014_Spring/blob/master/BigInteger/result.txt)
+
+### StackCalculator
+
 
 ### Sorting
 
